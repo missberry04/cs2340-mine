@@ -14,7 +14,8 @@ SECRET_KEY = 'django-insecure-92z@n*9_k&gphqp+#=etgeb+s8g8eenra9e+on)pasabjcw6n8
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['missberry.pythonanywhere.com', '127.0.0.1', 'localhost']
+
 
 
 # Application definition
